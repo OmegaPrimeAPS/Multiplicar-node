@@ -1,0 +1,9 @@
+
+
+
+node_modules/
+
+tablas/*.txt
+tablas2.txt
+##este archivo sirve para excluir todos los archivos que esten dentro de este mismo
+##siempre se guarda como .gitignore
